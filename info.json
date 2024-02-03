@@ -1,5 +1,5 @@
 {
-    "id":"jackbox-en",
+    "id":"jackbox-ru-akmixam",
     "name":"Jackbox Utility",
     "description":"The community server for Jackbox Games in English!",
     "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
@@ -11,12 +11,12 @@
             "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
         }
     ],
-    "controller":"jackbox.tv",
-    "languages":["en"],
+    "controller":"jackbox.fun",
+    "languages":["ru"],
     "links": [
         {
             "icon":"globe",
-            "url":"https://www.jackboxgames.com/",
+            "url":"https://jackboxgames.ru/",
             "text":"Website"
         },
         {
