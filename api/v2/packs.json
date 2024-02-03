@@ -2440,7 +2440,7 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - ∞ minutes",
+                    "length":"15 - 25 minutes",
                     "playtime":{
                         "min":15,
                         "max":∞
