@@ -2,13 +2,13 @@
     "id":"jackbox-ru-akmixam",
     "name":"Jackbox Utility",
     "description":"The community server for Jackbox Games in English!",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/Maximka222/JackboxUtility-Server-ru-akmixaM/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "api":"https://raw.githubusercontent.com/Maximka222/JackboxUtility-Server-ru-akmixaM/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/Maximka222/JackboxUtility-Server-ru-akmixaM/main/assets"
         }
     ],
     "controller":"jackbox.fun",

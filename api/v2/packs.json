@@ -459,6 +459,53 @@
                 ]
             },
             {
+                "id":"memewax",
+                "name":"MP3-бред",
+                "background":"game_backgrounds/Memewax.webp",
+                "path":"games/Memewax",
+                "game_info":{
+                    "players":{
+                        "min":3,
+                        "max":8
+                    },
+                    "length":"15 - 25 minutes",
+                    "playtime":{
+                        "min":15,
+                        "max":25
+                    },
+                    "family_friendly":"OPTIONAL",
+                    "audience":true,
+                    "audience_description":"The audience can give likes to their favorite responses.",
+                    "stream_friendly":"PLAYABLE",
+                    "moderation":"FULL_MODERATION",
+                    "moderation_description":"Since players can only input sounds provided by the game, this game doesn't require moderation. However, you cannot control the sound combinations that players submit.",
+                    "subtitles":false,
+                    "type":"VERSUS",
+                    "translation":"ENGLISH",
+                    "tagline":"Игра с безумными мемными комбинациями",
+                    "small_description":"Игра с безумными мемными комбинациями",
+                    "description":"Откройте, это подарки от Translate Guardians! А нет, это Спарта! Хотя больше похоже на мод. А я думала сова... Впрочем, ничего нового.",
+                    "images":[
+                        "game_images/Memewax/memewax.mp4",
+                        "game_images/Memewax/memewax_1.webp",
+                        "game_images/Memewax/memewax_2.webp",
+                        "game_images/Memewax/memewax_3.webp",
+                        "game_images/Memewax/memewax_4.webp"
+                    ],
+                    "tags":[
+                    
+                    ]
+
+                },
+                "loader":{
+                    "path":"loaders/tjpp2/memewax.zip",
+                    "version":"1.0.0"
+                },
+                "patchs":[
+                    
+                ]
+            },
+            {
                 "id":"bidiots",
                 "name":"Bidiots",
                 "background":"game_backgrounds/Bidiots.webp",
