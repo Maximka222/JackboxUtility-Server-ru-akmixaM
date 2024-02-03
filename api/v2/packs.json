@@ -483,7 +483,7 @@
                     "type":"VERSUS",
                     "translation":"ENGLISH",
                     "tagline":"Игра с мемными комбинациями",
-                    "small_description":"Игра с безумными мемными комбинациями",
+                    "small_description":"Игра с мемными комбинациями",
                     "description":"Откройте, это подарки от Translate Guardians! А нет, это Спарта! Хотя больше похоже на мод. А я думала сова... Впрочем, ничего нового.",
                     "images":[
                         "game_images/Memewax/memewax.mp4",
@@ -578,7 +578,9 @@
                     "tagline":"Продавайте \"шедевры\"",
                     "small_description":"Продавайте \"шедевры\"",
                     "description":"Закамский аукцион. Два слова. Создавайте \"шедевры\". Продавайте \"шедевры\". Берите кредиты. Получайте прибыль. Всё просто.",
-                    "images":[ ],
+                    "images":[
+                        "game_images/Bidiots/bidiots.mp4"
+                    ],
                     "tags":[
                     	"drawing",
                     	"deduction"
@@ -2429,6 +2431,49 @@
                 ]
             },
             {
+                "id":"the_wheel_of_enormous_troll",
+                "name":"Колесо Ненормального Троллинга",
+                "background":"game_backgrounds/TheWheelOfEnormousTroll.webp",
+                "path":"games/TheWheelTroll",
+                "game_info":{
+                    "players":{
+                        "min":2,
+                        "max":8
+                    },
+                    "length":"15 - ∞ minutes",
+                    "playtime":{
+                        "min":15,
+                        "max":∞
+                    },
+                    "family_friendly":"OPTIONAL",
+                    "audience":true,
+                    "audience_description":"The audience votes for which player they think will do best on the questions and wins portions by guessing correctly. These are placed on the wheel and can trigger actions on the players when someone lands on them.",
+                    "stream_friendly":"PLAYABLE",
+                    "moderation":"FULL_MODERATION",
+                    "moderation_description":"This game doesn't require moderation. If necessary, it's recommended to enable the \"Profanity Filter\" option or disable the \"Allow Player Written Responses\" option.",
+                    "subtitles":true,
+                    "type":"VERSUS",
+                    "translation":"ENGLISH",
+                    "tagline":"Попробуй победить!",
+                    "small_description":"Попробуй победить!",
+                    "description":"Тролль-викторина, попробуй победить, когда все пытаются тебя обхитрить!",
+                    "images":[
+                        "game_images/TheWheelOfEnormousTroll/thewheelofenormoustroll.mp4"
+                    ],
+                    "tags":[
+                        "knowledge"
+                    ]
+
+                },
+                "loader":{
+                    "path":"loaders/tjpp8/thewheelofenormoustroll.zip",
+                    "version":"1.0.0"
+                },
+                "patchs":[
+                    
+                ]
+            },
+            {
                 "id":"jobjob",
                 "name":"Job Job",
                 "background":"game_backgrounds/JobJob.webp",
@@ -2566,6 +2611,54 @@
                 },
                 "loader":{
                     "path":"loaders/tjpp8/weaponsdrawn.zip",
+                    "version":"1.0.0"
+                },
+                "patchs":[
+                    
+                ]
+            },
+            {
+                "id":"impostordrawn",
+                "name":"Импостер's Дравун",
+                "background":"game_backgrounds/ImpostorDrawn.webp",
+                "path":"games/ImpostorDetectives",
+                "game_info":{
+                    "players":{
+                        "min":4,
+                        "max":8
+                    },
+                    "length":"20 - 30 minutes",
+                    "playtime":{
+                        "min":20,
+                        "max":30
+                    },
+                    "family_friendly":"NOT_FAMILY_FRIENDLY",
+                    "audience":true,
+                    "audience_description":"The audience can vote along with the players, both when deciding which case is going to be solved and who the murderer is. Also, they can cause lightnings to strike while players draw and can murder nothingness while players murder.",
+                    "stream_friendly":"MIDLY_PLAYABLE",
+                    "stream_friendly_description":"Being a social deduction game, it's recommended for players to be able to at least hear each other.",
+                    "moderation":"FULL_MODERATION",
+                    "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                    "subtitles":true,
+                    "type":"COOP",
+                    "translation":"ENGLISH",
+                    "tagline":"АМОГУС!",
+                    "small_description":"АМОГУС!",
+                    "description":"Игра, в которой гениальные галактические детективы соревнуются в убивании членов экипажа и раскрытии дел.",
+                    "images":[
+                        "game_images/WeaponsDrawn/weaponsdrawn.mp4",
+                        "game_images/ImpostorDrawn/impostordrawn_1.webp",
+                        "game_images/ImpostorDrawn/impostordrawn_2.webp",
+                        "game_images/ImpostorDrawn/impostordrawn_3.webp",
+                        "game_images/ImpostorDrawn/impostordrawn_4.webp"
+                    ],
+                    "tags":[
+                        "talking","drawing","writing","deduction"
+                    ]
+
+                },
+                "loader":{
+                    "path":"loaders/tjpp8/impostordrawn.zip",
                     "version":"1.0.0"
                 },
                 "patchs":[
