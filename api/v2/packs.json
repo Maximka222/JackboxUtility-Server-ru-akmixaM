@@ -482,7 +482,7 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Игра с безумными мемными комбинациями",
+                    "tagline":"Игра с мемными комбинациями",
                     "small_description":"Игра с безумными мемными комбинациями",
                     "description":"Откройте, это подарки от Translate Guardians! А нет, это Спарта! Хотя больше похоже на мод. А я думала сова... Впрочем, ничего нового.",
                     "images":[
@@ -578,13 +578,7 @@
                     "tagline":"Продавайте \"шедевры\"",
                     "small_description":"Продавайте \"шедевры\"",
                     "description":"Закамский аукцион. Два слова. Создавайте \"шедевры\". Продавайте \"шедевры\". Берите кредиты. Получайте прибыль. Всё просто.",
-                    "images":[
-                        "game_images/Bidiots/bidiots.mp4",
-                        "game_images/Bidiots/bidiots_1.webp",
-                        "game_images/Bidiots/bidiots_2.webp",
-                        "game_images/Bidiots/bidiots_3.webp",
-                        "game_images/Bidiots/bidiots_4.webp"
-                    ],
+                    "images":[ ],
                     "tags":[
                     	"drawing",
                     	"deduction"
