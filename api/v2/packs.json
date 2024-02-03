@@ -553,6 +553,46 @@
                 ]
             },
             {
+                "id":"zakamskyauction",
+                "name":"Закамский Аукцион",
+                "background":"game_backgrounds/ZakamskyAuction.webp",
+                "path":"games/ZakamskyAuction",
+                "game_info":{
+                    "players":{
+                        "min":4,
+                        "max":6
+                    },
+                    "length":"20 - 25 minutes",
+                    "playtime":{
+                        "min":20,
+                        "max":25
+                    },
+                    "family_friendly":"FAMILY_FRIENDLY",
+                    "audience":false,
+                    "stream_friendly":"PLAYABLE",
+                    "moderation":"NO_MODERATION",
+                    "moderation_description":"Players can submit drawings.",
+                    "subtitles":false,
+                    "type":"VERSUS",
+                    "translation":"ENGLISH",
+                    "tagline":"Продавайте \"шедевры\"",
+                    "small_description":"Продавайте \"шедевры\"",
+                    "description":"Закамский аукцион. Два слова. Создавайте \"шедевры\". Продавайте \"шедевры\". Берите кредиты. Получайте прибыль. Всё просто.",
+                    "tags":[
+                    	"drawing",
+                    	"deduction"
+                    ]
+
+                },
+                "loader":{
+                    "path":"loaders/tjpp2/zakamskyauction.zip",
+                    "version":"1.0.0"
+                },
+                "patchs":[
+                    
+                ]
+            },
+            {
                 "id":"quiplashxl",
                 "name":"Quiplash XL",
                 "background":"game_backgrounds/QuiplashXL.webp",
