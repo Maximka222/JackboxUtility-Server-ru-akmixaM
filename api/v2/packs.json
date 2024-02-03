@@ -578,6 +578,13 @@
                     "tagline":"Продавайте \"шедевры\"",
                     "small_description":"Продавайте \"шедевры\"",
                     "description":"Закамский аукцион. Два слова. Создавайте \"шедевры\". Продавайте \"шедевры\". Берите кредиты. Получайте прибыль. Всё просто.",
+                    "images":[
+                        "game_images/Bidiots/bidiots.mp4",
+                        "game_images/Bidiots/bidiots_1.webp",
+                        "game_images/Bidiots/bidiots_2.webp",
+                        "game_images/Bidiots/bidiots_3.webp",
+                        "game_images/Bidiots/bidiots_4.webp"
+                    ],
                     "tags":[
                     	"drawing",
                     	"deduction"
