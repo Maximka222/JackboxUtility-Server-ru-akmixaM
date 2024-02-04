@@ -2443,7 +2443,7 @@
                     "length":"15 - ∞ minutes",
                     "playtime":{
                         "min":15,
-                        "max":40,
+                        "max":40
                     },
                     "family_friendly":"OPTIONAL",
                     "audience":true,
