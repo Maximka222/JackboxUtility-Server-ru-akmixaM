@@ -2,33 +2,33 @@
     "tags":[
        {
             "id":"talking",
-            "name":"Discussion",
+            "name":"Обсуждение",
             "icon":"megaphone",
-            "description":"Games that require or benefit from out loud discussion between players."
+            "description":"Игры, в которых необходимо или желательно обсуждение между игроками."
        },
        {
        	    "id":"drawing",
-            "name":"Drawing",
+            "name":"Рисование",
             "icon":"edit",
-            "description":"You'll have to draw in these games."
+            "description":"В этих играх вам предстоит рисовать."
        },
        {
        	    "id":"deduction",
-            "name":"Strategy",
+            "name":"Стратегия",
             "icon":"comment_urgent",
-            "description":"You'll have to think well of your actions in these games."
+            "description":"В этих играх вам предстоит хорошо обдумывать свои действия."
        },
        {
        	    "id":"knowledge",
-            "name":"Trivia",
+            "name":"Викторина",
             "icon":"unknown",
-            "description":"Test your knowledge with these games."
+            "description":"Проверьте свои знания с помощью этих игр."
        },
        {
             "id":"writing",
-            "name":"Writing",
+            "name":"Написание",
             "icon":"text_align_middle",
-            "description":"You'll have to write in these games."
+            "description":"В этих играх вам предстоит писать."
         }
     ],
     "patchsCategories": [
@@ -50,7 +50,7 @@
     {
         "id":"jpp1",
         "name":"The Jackbox Party Pack",
-        "description":"Year of release: 2014",
+        "description":"Год выхода: 2014",
         "launchers_id":{
             "steam":"331670",
             "epic":"Feverfew"
@@ -129,8 +129,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"The irreverent quiz show party game",
-                    "small_description":"The irreverent quiz show party game",
+                    "tagline":"Дерзкая викторина для вашей вечеринки",
+                    "small_description":"Дерзкая викторина для вашей вечеринки",
                     "description":"The smart-ass trivia show that started it all! Hundreds of all-new twisted trivia questions and everyone’s favorite host, Cookie Masterson!",
                     "images":[
                         "game_images/YDKJ2015/ydkj2015.mp4",
@@ -175,8 +175,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Draw badly with style!",
-                    "small_description":"Draw badly with style!",
+                    "tagline":"Рисуй красиво и со стилем!",
+                    "small_description":"Рисуй красиво и со стилем!",
                     "description":"Игра про рисование, которая берёт все остальные игры про рисование и дорисовывает им усы.",
                     "images":[
                         "game_images/Drawful/drawful.mp4",
@@ -220,8 +220,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"PASS IT AROUND",
-                    "small_description":"PASS IT AROUND",
+                    "tagline":"ПЕРЕДАВАЙ ДАЛЬШЕ",
+                    "small_description":"ПЕРЕДАВАЙ ДАЛЬШЕ",
                     "description":"Играем в слова всю ночь до утра! Дополни слово, которое движется к тебе, чтобы оно понравилось другим игрокам.",
                     "images":[
                         "game_images/WordSpud/wordspud.mp4",
@@ -264,8 +264,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Is it true or false?",
-                    "small_description":"Is it true or false?",
+                    "tagline":"Правду не прибьёшь!",
+                    "small_description":"Правду не прибьёшь!",
                     "description":"Ссут ли лобстеры из головы? Назвала ли Япония лапшу быстрого приготовления изобретением века? Несём ли мы брехню?\n\nNOTE: Opening this game with the Utility will open the Party Pack menu, skipping the introduction. This is intentional, as the game freezes when trying to open it more efficiently like other games.",
                     "images":[
                         "game_images/LieSwatter/lieswatter.mp4",
@@ -308,8 +308,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The hilarious bluffing party game",
-                    "small_description":"The hilarious bluffing party game",
+                    "tagline":"Весёлая игра для врунов",
+                    "small_description":"Весёлая игра для врунов",
                     "description":"Обмани своих друзей, не попадись на чужую ложь и отгадай правду (как правило, удивительную). Вперёд!",
                     "images":[
                         "game_images/FibbageXL/fibbagexl.mp4",
@@ -337,7 +337,7 @@
     {
         "id":"jpp2",
         "name":"The Jackbox Party Pack 2",
-        "description":"Year of release: 2015",
+        "description":"Год выхода: 2015",
         "launchers_id":{
             "steam":"397460",
             "epic":"Lilac"
@@ -387,8 +387,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"The hilarious bluffing party game",
-                    "small_description":"The hilarious bluffing party game",
+                    "tagline":"Весёлая игра для врунов",
+                    "small_description":"Весёлая игра для врунов",
                     "description":"More Fibbage! Lie to your friends, avoid their lies, and spot the truth. “In Arizona, you must obtain a permit to feed ______ to pigs.” Go!",
                     "images":[
                         "game_images/Fibbage2/fibbage2.mp4",
@@ -435,8 +435,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The game of sound strategy",
-                    "small_description":"The game of sound strategy",
+                    "tagline":"Звуковая стратегия",
+                    "small_description":"Звуковая стратегия",
                     "description":"Мычание коровы? Большой взрыв? Или маленький пук? Что выбрать? Это игра со звуковыми эффектами, которая затянет вас по уши в смех!",
                     "images":[
                         "game_images/Earwax/earwax.mp4",
@@ -528,8 +528,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Time to bid",
-                    "small_description":"Time to bid",
+                    "tagline":"Делай ставки",
+                    "small_description":"Делай ставки",
                     "description":"Предложи больше остальных за абсурдные картины, созданные самими игроками! Не будь дураком, играя в этот странный аукцион!",
                     "images":[
                         "game_images/Bidiots/bidiots.mp4",
@@ -619,8 +619,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The Say-Anything Party Game",
-                    "small_description":"The Say-Anything Party Game",
+                    "tagline":"Игра-где-можно-всё",
+                    "small_description":"Игра-где-можно-всё",
                     "description":"Смешная битва остроумных шуток в самой огромной форме! Придумай \"лучшее имя для уродливого ребёнка\" и выиграй!",
                     "images":[
                         "game_images/QuiplashXL/quiplashxl.mp4",
@@ -663,8 +663,8 @@
                     "subtitles":false,
                     "type":"COOP",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"This job blows",
-                    "small_description":"This job blows",
+                    "tagline":"Улётная работа",
+                    "small_description":"Улётная работа",
                     "description":"Добро пожаловать в Бомб Корп. Вы новые работники, которые должны помогать обезвреживать бомбы. В странном офисе, который полон бомб.",
                     "images":[
                         "game_images/BombCorp/bombcorp.mp4",
@@ -696,7 +696,7 @@
     {
         "id":"jpp3",
         "name":"The Jackbox Party Pack 3",
-        "description":"Year of release: 2016",
+        "description":"Год выхода: 2016",
         "launchers_id":{
             "steam":"434170",
             "epic":"Orchid"
@@ -789,8 +789,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The Say-Anything Party Game",
-                    "small_description":"The Say-Anything Party Game",
+                    "tagline":"Игра-где-можно-всё",
+                    "small_description":"Игра-где-можно-всё",
                     "description":"Игра-где-можно-всё возвращается. Придумай идеальную \"плохую замену зубной пломбе\" и побеждай! Устал от наших вопросов? Теперь можно сделать их самому!",
                     "images":[
                         "game_images/Quiplash2/quiplash2.mp4",
@@ -836,8 +836,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Will you survive this trivia?",
-                    "small_description":"Will you survive this trivia?",
+                    "tagline":"Сможешь ли ты выжить?",
+                    "small_description":"Сможешь ли ты выжить?",
                     "description":"Будь умным или везучим, чтобы выжить в этом абсурдном шоу серийного убийцы. Но шоу-то весёлое!",
                     "images":[
                         "game_images/TriviaMurderParty/triviamurderparty.mp4",
@@ -883,8 +883,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Data mining mayhem!",
-                    "small_description":"Data mining mayhem!",
+                    "tagline":"Безумный сбор данных!",
+                    "small_description":"Безумный сбор данных!",
                     "description":"Сколько процентов людей прятало что-то в лесах? Каталось на бампере полицейской машины? Влюблялось в коллегу по работе? Угадай и выиграй!",
                     "images":[
                         "game_images/Guesspionage/guesspionage.mp4",
@@ -931,8 +931,8 @@
                     "subtitles":false,
                     "type":"COOP",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Catch the Sneaky Trickster!",
-                    "small_description":"Catch the Sneaky Trickster!",
+                    "tagline":"Поймай подлого обманщика!",
+                    "small_description":"Поймай подлого обманщика!",
                     "description":"У всех есть ответ, но не каждый знает вопрос. Один из твоих друзей что-то скрывает. Найди его, пока не поздно!",
                     "images":[
                         "game_images/FakinIt/fakinit.mp4",
@@ -979,8 +979,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"T-Shirt Knock Out",
-                    "small_description":"T-Shirt Knock Out",
+                    "tagline":"Битва футболок",
+                    "small_description":"Битва футболок",
                     "description":"Рисуй, пиши, и затем совмещай это всё вместе, чтобы получить уникальную футболку. Только самая оригинальная и весёлая футболка покинет турнир живой!",
                     "images":[
                         "game_images/TeeKO/teeko.mp4",
@@ -1010,7 +1010,7 @@
     {
         "id":"jpp4",
         "name":"The Jackbox Party Pack 4",
-        "description":"Year of release: 2017",
+        "description":"Год выхода: 2017",
         "launchers_id":{
             "steam":"610180",
             "epic":"Snowdrop"
@@ -1103,8 +1103,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The hilarious bluffing party game",
-                    "small_description":"The hilarious bluffing party game",
+                    "tagline":"Весёлая игра для врунов",
+                    "small_description":"Весёлая игра для врунов",
                     "description":"Сиквел уже знакомой брехалки. Новые факты, больше вариантов, больше интерактивности для зрителей, а также новый игровой режим “Мы всё про вас знаем”.",
                     "images":[
                         "game_images/Fibbage3/fibbage3.mp4",
@@ -1151,8 +1151,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Sign in for hours of play",
-                    "small_description":"Sign in for hours of play",
+                    "tagline":"Оформите подписку и получите много часов игры",
+                    "small_description":"Оформите подписку и получите много часов игры",
                     "description":"Войди в систему и пристегнись! Тут выживает сильнейший, который играючи выкинет своих друзей за пределы контекста Всемирной Паутины.",
                     "images":[
                         "game_images/SurviveTheInternet/survivetheinternet.mp4",
@@ -1198,8 +1198,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Even monsters can love",
-                    "small_description":"Even monsters can love",
+                    "tagline":"Даже монстры хотят любви",
+                    "small_description":"Даже монстры хотят любви",
                     "description":"Игра в свидания, где нужно отправлять смешные сообщения и одновременно скрывать свою сущность монстра. Прямо как в жизни!",
                     "images":[
                         "game_images/MonsterSeekingMonster/monsterseekingmonster.mp4",
@@ -1246,8 +1246,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Bet for the best",
-                    "small_description":"Bet for the best",
+                    "tagline":"Ставьте на лучших",
+                    "small_description":"Ставьте на лучших",
                     "description":"Сумасшедший турнир ответов! “Какой овощ мог бы озвучить Бенедикт Камбербэтч?” Делай умные ставки на победу в глупых битвах.",
                     "images":[
                         "game_images/Bracketeering/bracketeering.mp4",
@@ -1293,8 +1293,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Combine your designs",
-                    "small_description":"Combine your designs",
+                    "tagline":"Дополняй рисунки",
+                    "small_description":"Дополняй рисунки",
                     "description":"Вас наняли, чтобы навести красоту в Долине Дудлов. Победит тот, кто будет лучше всех дополнять рисунки в процессе украшения города.",
                     "images":[
                         "game_images/CivicDoodle/civicdoodle.mp4",
@@ -1323,7 +1323,7 @@
     {
         "id":"jpp5",
         "name":"The Jackbox Party Pack 5",
-        "description":"Year of release: 2018",
+        "description":"Год выхода: 2018",
         "launchers_id":{
             "steam":"774461",
             "epic":"Geranium"
@@ -1416,8 +1416,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The irreverent trivia is back",
-                    "small_description":"The irreverent trivia is back",
+                    "tagline":"Дерзкая викторина возвращается",
+                    "small_description":"Дерзкая викторина возвращается",
                     "description":"А ГОЛОВУ ТЫ НЕ ЗАБЫЛ: Full Stream привносит свой насмешливо-викторинный феномен в безумно популярный и совершенно вымышленный стриминговый сервис Binjpipe! В их соглашении прямо написано, что вам понравится!",
                     "images":[
                         "game_images/YDKJFullStream/ydkjfullstream.mp4",
@@ -1463,8 +1463,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Create your best dilemmas",
-                    "small_description":"Create your best dilemmas",
+                    "tagline":"Создай лучшие дилеммы",
+                    "small_description":"Создай лучшие дилеммы",
                     "description":"Игра в \"Что, если...\", где возможно всё! Создавай странные и спорные гипотетические ситуации.",
                     "images":[
                         "game_images/SplitTheRoom/splittheroom.mp4",
@@ -1511,8 +1511,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Robotic rapping fun!",
-                    "small_description":"Robotic rapping fun!",
+                    "tagline":"Роботы читают рэп!",
+                    "small_description":"Роботы читают рэп!",
                     "description":"Игра про рэп-баттлы роботов! Сразись со своими друзьями и узнай, кто крутой MC, а кто попутал рамсы.",
                     "images":[
                         "game_images/MadVerseCity/madversecity.mp4",
@@ -1558,8 +1558,8 @@
                     "subtitles":false,
                     "type":"COOP",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Team earth must survive!",
-                    "small_description":"Team earth must survive!",
+                    "tagline":"Земляне должны выжить!",
+                    "small_description":"Земляне должны выжить!",
                     "description":"Самая убийственная игра в галактике! Швыряй себя, чтобы выиграть потрясающие призы!!!",
                     "images":[
                         "game_images/ZeepleDome/zeepledome.mp4",
@@ -1606,8 +1606,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Create your own inventions!",
-                    "small_description":"Create your own inventions!",
+                    "tagline":"Представь свои идеи!",
+                    "small_description":"Представь свои идеи!",
                     "description":"Игра в рисование изобретений для решения странных проблем! Представь свои идеи и загребай деньги лопатой!",
                     "images":[
                         "game_images/PatentlyStupid/patentlystupid.mp4",
@@ -1638,7 +1638,7 @@
     {
         "id":"jpp6",
         "name":"The Jackbox Party Pack 6",
-        "description":"Year of release: 2019",
+        "description":"Год выхода: 2019",
         "launchers_id":{
             "steam":"1005300",
             "epic":"Astrapia"
@@ -1760,8 +1760,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Will you survive this trivia?",
-                    "small_description":"Will you survive this trivia?",
+                    "tagline":"Сможешь ли ты выжить?",
+                    "small_description":"Сможешь ли ты выжить?",
                     "description":"Серийный убийца устраивает абсурдную викторину в семейном Отеле смерти, в котором он вырос. Сможешь ли ты выжить?",
                     "images":[
                         "game_images/TriviaMurderParty2/triviamurderparty2.mp4",
@@ -1808,8 +1808,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Who are you?",
-                    "small_description":"Who are you?",
+                    "tagline":"Кто ты?",
+                    "small_description":"Кто ты?",
                     "description":"Everybody’s somebody, so who are you? The planner? The flake? The sassy one? Step into the lab and find out.",
                     "images":[
                         "game_images/RoleModels/rolemodels.mp4",
@@ -1856,8 +1856,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Make your friends laugh",
-                    "small_description":"Make your friends laugh",
+                    "tagline":"Рассмеши своих друзей",
+                    "small_description":"Рассмеши своих друзей",
                     "description":"Право руля! Вы – комик на престижном круизном корабле! Сможете ли вы одержать победу в шоу талантов?",
                     "images":[
                         "game_images/JokeBoat/jokeboat.mp4",
@@ -1904,8 +1904,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Invent words",
-                    "small_description":"Invent words",
+                    "tagline":"Придумывай слова",
+                    "small_description":"Придумывай слова",
                     "description":"Люди веками придумывали слова и словосочетания. Теперь настала ваша очередь внести свой вклад в создание Словариума.",
                     "images":[
                         "game_images/Dictionarium/dictionarium.mp4",
@@ -1951,8 +1951,8 @@
                     "subtitles":true,
                     "type":"TEAM",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Find the aliens",
-                    "small_description":"Find the aliens",
+                    "tagline":"Найди пришельцев",
+                    "small_description":"Найди пришельцев",
                     "description":"Внимание! На ваш корабль проникли пришельцы. Сможет ли ваша команда определить, кто является пришельцем, до истечения времени?",
                     "images":[
                         "game_images/PushTheButton/pushthebutton.mp4",
@@ -1984,7 +1984,7 @@
     {
         "id":"jpp7",
         "name":"The Jackbox Party Pack 7",
-        "description":"Year of release: 2020",
+        "description":"Год выхода: 2020",
         "launchers_id":{
             "steam":"1211630",
             "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
@@ -2091,8 +2091,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The Say-Anything Party Game",
-                    "small_description":"The Say-Anything Party Game",
+                    "tagline":"Игра-где-можно-всё",
+                    "small_description":"Игра-где-можно-всё",
                     "description":"Триквел игры-где-можно-всё! Рассмеши друзей ответами на задания... если ты умеешь, конечно.",
                     "images":[
                         "game_images/Quiplash3/quiplash3.mp4",
@@ -2138,8 +2138,8 @@
                     "subtitles":true,
                     "type":"COOP",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Do your tasks!",
-                    "small_description":"Do your tasks!",
+                    "tagline":"Выполняй задачи!",
+                    "small_description":"Выполняй задачи!",
                     "description":"Вы – семья дьяволов, которая переехала наверх. Переживёте ли вы все трудности человеческой жизни?",
                     "images":[
                         "game_images/TheDevilsAndTheDetails/thedevilsandthedetails.mp4",
@@ -2185,8 +2185,8 @@
                     "subtitles":true,
                     "translation":"COMMUNITY_TRANSLATED",
                     "type":"VERSUS",
-                    "tagline":"The ultimate doodling battle",
-                    "small_description":"The ultimate doodling battle",
+                    "tagline":"Грандиозная битва в Каракулизее",
+                    "small_description":"Грандиозная битва в Каракулизее",
                     "description":"Приходи в Каракулизей, где бойцы сражаются за странные титулы. Создай своего чемпиона-фаворита!",
                     "images":[
                         "game_images/ChampdUp/champdup.mp4",
@@ -2233,8 +2233,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Crazy talks",
-                    "small_description":"Crazy talks",
+                    "tagline":"Сумасшедшие презентации",
+                    "small_description":"Сумасшедшие презентации",
                     "description":"Выступи с презентацией, которую увидишь в первый раз. И неважно, будет ли в твоих словах смысл!",
                     "images":[
                         "game_images/TalkingPoints/talkingpoints.mp4",
@@ -2309,7 +2309,7 @@
     {
         "id":"jpp8",
         "name":"The Jackbox Party Pack 8",
-        "description":"Year of release: 2021",
+        "description":"Год выхода: 2021",
         "launchers_id":{
             "steam":"1552350",
             "epic":"67003fc4eaa444608acf083a08dc907e"
@@ -2359,9 +2359,9 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Animate everything!",
-                    "small_description":"Animate everything!",
-                    "description":"The third game in the Drawful series allows players to create two corresponding images which leads to one dynamic pictorial guessing game.",
+                    "tagline":"Анимируй всё!",
+                    "small_description":"Анимируй всё!",
+                    "description":"Триквел старой-доброй игры на рисование. Но теперь игроки рисуют не эти скучные рисунки, а настоящие анимации!",
                     "images":[
                         "game_images/DrawfulAnimate/drawfulanimate.mp4",
                         "game_images/DrawfulAnimate/drawfulanimate_1.webp",
@@ -2407,9 +2407,9 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Make it spin!",
-                    "small_description":"Make it spin!",
-                    "description":"General knowledge and random chance combine to create a trivia game where everybody has a chance to learn the ultimate answer.",
+                    "tagline":"Вращай колесо!",
+                    "small_description":"Вращай колесо!",
+                    "description":"Отвечай на вопросы правильно, чтобы увеличить свои шансы на победу. А выиграв, ты сможешь получить ответ на любой свой вопрос.",
                     "images":[
                         "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions.mp4",
                         "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_1.webp",
@@ -2497,9 +2497,9 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Will you be employed?",
-                    "small_description":"Will you be employed?",
-                    "description":"A comedy game where your jokes must be built of words from other players in a mixed up take on a job interview.",
+                    "tagline":"Возьмут ли вас на работу?",
+                    "small_description":"Возьмут ли вас на работу?",
+                    "description":"Вырывай любые слова из предложений других игроков, чтобы ответить на вопросы собеседования и получить работу!",
                     "images":[
                         "game_images/JobJob/jobjob.mp4",
                         "game_images/JobJob/jobjob_1.webp",
@@ -2545,9 +2545,9 @@
                     "subtitles":true,
                     "type":"TEAM",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Answer the polls!",
-                    "small_description":"Answer the polls!",
-                    "description":"A survey game that's all about YOU! Split into teams and see who can escape from the witch's lair!",
+                    "tagline":"Отвечай на опросы!",
+                    "small_description":"Отвечай на опросы!",
+                    "description":"Вместе со своей командой находи двери с правильными ответами на опросы, чтобы выбраться из страшной пещеры!",
                     "images":[
                         "game_images/PollMine/pollmine.mp4",
                         "game_images/PollMine/pollmine_1.webp",
@@ -2594,9 +2594,9 @@
                     "subtitles":true,
                     "type":"COOP",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Find the murderers",
-                    "small_description":"Find the murderers",
-                    "description":"This social-deduction game turns a fancy ball into a killer free-for-all where you are both artistic murderer and attentive detective.",
+                    "tagline":"Найди убийц",
+                    "small_description":"Найди убийц",
+                    "description":"Эта социально-дедуктивная игра, где каждый – и детектив, и убийца. Сможете ли вы раскрыть другие убийства, избежав наказания за свои собственные?",
                     "images":[
                         "game_images/WeaponsDrawn/weaponsdrawn.mp4",
                         "game_images/WeaponsDrawn/weaponsdrawn_1.webp",
@@ -2672,7 +2672,7 @@
     {
         "id":"jpp9",
         "name":"The Jackbox Party Pack 9",
-        "description":"Year of release: 2022",
+        "description":"Год выхода: 2022",
         "launchers_id":{
             "steam":"1850960",
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
@@ -2722,8 +2722,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"The hilarious bluffing party game",
-                    "small_description":"The hilarious bluffing party game",
+                    "tagline":"Весёлая игра для врунов",
+                    "small_description":"Весёлая игра для врунов",
                     "description":"The hilarious bluffing party game returns with an all new Final Fibbage, video questions, fan-submitted questions, and Fibbage Enough About You mode!",
                     "images":[
 			            "game_images/Fibbage4/fibbage4.mp4",
@@ -2768,9 +2768,9 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Will you stay in the house?",
-                    "small_description":"Will you stay in the house?",
-                    "description":"Channel your inner reality TV star in an attempt to come out on top! Respond to prompts, bring the competition and role-play to avoid being voted out. Never fear though, even when you’re out you’ll find yourself Roomerang-ed right back into the drama!",
+                    "tagline":"Останетесь ли вы дома?",
+                    "small_description":"Останетесь ли вы дома?",
+                    "description":"Стань звездой реалити-шоу! Отвечай на вопросы, соревнуйся и играй свою роль, чтобы не вылететь. Но не бойся, даже если тебя выгонят, ты снова окажешься в центре драмы!",
                     "images":[
                         "game_images/Roomerang/roomerang.mp4",
                         "game_images/Roomerang/roomerang_1.jpg",
@@ -2816,9 +2816,9 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Sell your items",
-                    "small_description":"Sell your items",
-                    "description":"A strange wizard has turned you into a frog! Create hilarious backstories for weird objects and then get them appraised. The player with the most valuable items becomes human again!",
+                    "tagline":"Продавай свои вещи",
+                    "small_description":"Продавай свои вещи",
+                    "description":"Странный волшебник превратил тебя в лягушку! Придумывай смешные истории странных предметов, а затем рассказывай их. Игрок с самыми ценными предметами снова станет человеком!",
                     "images":[
                         "game_images/Junktopia/junktopia.mp4",
                         "game_images/Junktopia/junktopia_1.jpg",
@@ -2864,9 +2864,9 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Share your thoughts",
-                    "small_description":"Share your thoughts",
-                    "description":"Professor Nanners is here to test your NSP (Nonsensory Perception) in this drawing, writing, and guessing game! How close can you get to guessing where another player’s prompt ranks on the silliest of scales?",
+                    "tagline":"Делитесь своими мыслями",
+                    "small_description":"Делитесь своими мыслями",
+                    "description":"Профессор Янка хочет проверить способности вашего мозга в этой игре на рисунки, написание ответов и угадывание! Насколько точно ты сможешь отгадать задания других игроков по их ответам?",
                     "images":[
                         "game_images/Nonsensory/nonsensory.mp4",
                         "game_images/Nonsensory/nonsensory_1.jpg",
@@ -2912,9 +2912,9 @@
                     "subtitles":true,
                     "type":"TEAM",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Order the blocks",
-                    "small_description":"Order the blocks",
-                    "description":"In this trivia sorting factory, work with your team to sort falling answers into their proper order before they hit the floor! Or, play the single player mode and see how many blocks you can sort before topping out. It’s as easy as A, C, B!",
+                    "tagline":"Сортируй блоки",
+                    "small_description":"Сортируй блоки",
+                    "description":"Находясь на этой сортирующей фабрике, вместе со своей командой располагай блоки в правильном порядке! Или играй один и пытайся поставить новый рекорд. Это просто как раз, три, два!",
                     "images":[
                         "game_images/Quixort/quixort.mp4",
                         "game_images/Quixort/quixort_1.jpg",
@@ -2943,7 +2943,7 @@
     {
         "id": "jpp10",
         "name": "The Jackbox Party Pack 10",
-        "description": "Year of release: 2023",
+        "description": "Год выхода: 2023",
         "launchers_id": {
             "steam": "2216830",
             "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
@@ -2995,8 +2995,8 @@
                     "length": "20 - 25 minutes",
                     "type": "VERSUS",
                     "translation": "ENGLISH",
-                    "tagline":"T-Shirt Knock Out",
-                    "small_description":"T-Shirt Knock Out",
+                    "tagline":"Битва футболок",
+                    "small_description":"Битва футболок",
                     "description":"In Tee K.O. 2, return to T-Shirt Island, where the most hardened warriors in the world compete in a deadly fighting tournament. The drawing finger–not the fist–decides the victory!",
                     "images": [
                         "game_images/TeeKO2/teeko2.mp4",
@@ -3201,7 +3201,7 @@
     {
         "id":"jpstarter",
         "name":"The Jackbox Party Starter",
-        "description":"Year of release: 2022",
+        "description":"Год выхода: 2022",
         "launchers_id":{
             "steam":"1755580",
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
@@ -3251,8 +3251,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The Say-Anything Party Game",
-                    "small_description":"The Say-Anything Party Game",
+                    "tagline":"Игра-где-можно-всё",
+                    "small_description":"Игра-где-можно-всё",
                     "description":"Триквел игры-где-можно-всё! Рассмеши друзей ответами на задания... если ты умеешь, конечно.",
                     "images":[
                         "game_images/Quiplash3/quiplash3starter.mp4",
@@ -3297,8 +3297,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"T-Shirt Knock Out",
-                    "small_description":"T-Shirt Knock Out",
+                    "tagline":"Битва футболок",
+                    "small_description":"Битва футболок",
                     "description":"Рисуй, пиши, и затем совмещай это всё вместе, чтобы получить уникальную футболку. Только самая оригинальная и весёлая футболка покинет турнир живой!",
                     "images":[
                         "game_images/TeeKO/teekostarter.mp4",
@@ -3345,8 +3345,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Will you survive this trivia?",
-                    "small_description":"Will you survive this trivia?",
+                    "tagline":"Сможешь ли ты выжить?",
+                    "small_description":"Сможешь ли ты выжить?",
                     "description":"Серийный убийца устраивает абсурдную викторину в семейном Отеле смерти, в котором он вырос. Сможешь ли ты выжить?",
                     "images":[
                         "game_images/TriviaMurderParty2/triviamurderparty2starter.mp4",
@@ -3375,7 +3375,7 @@
     {
         "id":"fbxl",
         "name":"Бредовуха XL",
-        "description":"Year of release: 2016",
+        "description":"Год выхода: 2016",
         "launchers_id":{
             "steam":"448080"
         },
@@ -3422,8 +3422,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"The hilarious bluffing party game",
-                    "small_description":"The hilarious bluffing party game",
+                    "tagline":"Весёлая игра для врунов",
+                    "small_description":"Весёлая игра для врунов",
                     "description":"Обмани своих друзей, не попадись на чужую ложь и отгадай правду (как правило, удивительную). Вперёд!",
                     "images":[
                         "game_images/FibbageXL/fibbagexl.mp4",
@@ -3451,7 +3451,7 @@
     {
         "id":"quip",
         "name":"Смехлыст",
-        "description":"Year of release: 2015",
+        "description":"Год выхода: 2015",
         "launchers_id":{
             "steam":"351510"
         },
@@ -3499,8 +3499,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"The Say-Anything Party Game",
-                    "small_description":"The Say-Anything Party Game",
+                    "tagline":"Игра-где-можно-всё",
+                    "small_description":"Игра-где-можно-всё",
                     "description":"Смешная битва остроумных шуток в самой огромной форме! Придумай \"лучшее имя для уродливого ребёнка\" и выиграй!",
                     "images":[
                         "game_images/QuiplashXL/quiplashxl.mp4",
@@ -3529,7 +3529,7 @@
     {
         "id":"quip2int",
         "name":"Quiplash 2 InterLASHional",
-        "description":"Year of release: 2020",
+        "description":"Год выхода: 2020",
         "launchers_id":{
             "steam":"1111940",
             "jackbox_games_store":"https://shop.jackboxgames.com/collections/staging-standalone-titles/products/quiplash-2-interlashional-us-ca-eu"
@@ -3607,7 +3607,7 @@
     {
         "id":"df2",
         "name":"Рисовач 2",
-        "description":"Year of release: 2016",
+        "description":"Год выхода: 2016",
         "launchers_id":{
             "steam":"442070",
             "epic":"Daisy"
@@ -3657,8 +3657,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Draw badly with style!",
-                    "small_description":"Draw badly with style!",
+                    "tagline":"Рисуй красиво и со стилем!",
+                    "small_description":"Рисуй красиво и со стилем!",
                     "description":"Drawful is back to liven up your next party with Drawful 2, which challenges players to draw silly things on their smartphones and tablets.",
                     "images":[
                         "game_images/Drawful2/drawful2.mp4",
@@ -3688,7 +3688,7 @@
         {
         "id":"ydkjvol1",
         "name":"YOU DON'T KNOW JACK Vol. 1 XL",
-        "description":"Year of release: 1995",
+        "description":"Год выхода: 1995",
         "launchers_id":{
             "steam":"252730"
         },
@@ -3758,7 +3758,7 @@
     {
         "id":"ydkjsports",
         "name":"YOU DON'T KNOW JACK SPORTS",
-        "description":"Year of release: 1996",
+        "description":"Год выхода: 1996",
         "launchers_id":{
             "steam":"260020"
         },
@@ -3828,7 +3828,7 @@
     {
         "id":"ydkjvol2",
         "name":"YOU DON'T KNOW JACK Vol. 2",
-        "description":"Year of release: 1996",
+        "description":"Год выхода: 1996",
         "launchers_id":{
             "steam":"259940"
         },
@@ -3898,7 +3898,7 @@
     {
         "id":"ydkjmovies",
         "name":"YOU DON'T KNOW JACK MOVIES",
-        "description":"Year of release: 1997",
+        "description":"Год выхода: 1997",
         "launchers_id":{
             "steam":"260000"
         },
@@ -3968,7 +3968,7 @@
     {
         "id":"ydkjtv",
         "name":"YOU DON'T KNOW JACK TELEVISION",
-        "description":"Year of release: 1997",
+        "description":"Год выхода: 1997",
         "launchers_id":{
             "steam":"260040"
         },
@@ -4038,7 +4038,7 @@
     {
         "id":"ydkjvol3",
         "name":"YOU DON'T KNOW JACK Vol. 3",
-        "description":"Year of release: 1997",
+        "description":"Год выхода: 1997",
         "launchers_id":{
             "steam":"259960"
         },
@@ -4108,7 +4108,7 @@
     {
         "id":"ydkjheadrush",
         "name":"YOU DON'T KNOW JACK HEADRUSH",
-        "description":"Year of release: 1998",
+        "description":"Год выхода: 1998",
         "launchers_id":{
             "steam":"260060"
         },
@@ -4178,7 +4178,7 @@
     {
         "id":"ydkjvol4",
         "name":"YOU DON'T KNOW JACK Vol. 4 The Ride",
-        "description":"Year of release: 1998",
+        "description":"Год выхода: 1998",
         "launchers_id":{
             "steam":"259980"
         },
@@ -4248,7 +4248,7 @@
     {
         "id":"ydkjvol6",
         "name":"YOU DON'T KNOW JACK Vol. 6 The Lost Gold",
-        "description":"Year of release: 2003",
+        "description":"Год выхода: 2003",
         "launchers_id":{
             "steam":"260080"
         },
@@ -4351,7 +4351,7 @@
     {
         "id":"uyw",
         "name":"Своими Словами",
-        "description":"Year of release: 2017",
+        "description":"Год выхода: 2017",
         "launchers_id":{
             "steam":"521350"
         },
@@ -4394,9 +4394,9 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"An amazing word party",
-                    "small_description":"An amazing word party",
-                    "description":"Use Your Words is the new party game for funny people and their unfunny friends! Laugh your way through four hilarious mini-games! Use your smartphone to fill in the blank, or try your luck using one of our answers to get laughs! No matter your strategy, Use Your Words brings comedy home!",
+                    "tagline":"Потрясающая вечеринка слов",
+                    "small_description":"Потрясающая вечеринка слов",
+                    "description":"Своими Словами (Use Your Words) - это многопользовательская игра для вечеринок, рассчитанная на весёлых людей и их не очень весёлых друзей! Попробуйте четыре уморительные мини-игры используя свой смартфон как контроллер.",
                     "images":[
                         "game_images/UseYourWords/useyourwords.mp4",
                         "game_images/UseYourWords/useyourwords_1.webp",
@@ -4420,7 +4420,7 @@
     {
         "id":"wtd",
         "name":"Какого дубля?!",
-        "description":"Year of release: 2021",
+        "description":"Год выхода: 2021",
         "launchers_id":{
             "steam":"1495860"
         },
@@ -4463,8 +4463,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Crazy dubbing",
-                    "small_description":"Crazy dubbing",
+                    "tagline":"Безумный дубляж",
+                    "small_description":"Безумный дубляж",
                     "description":"What The Dub?! (Какого дубля?!) - это многопользовательская игра для вечеринок, в которой каждый игрок дублирует недостающие диалоги из фильмов и рекламных роликов своими собственными остроумными (или просто глупыми) дубляжами!",
                     "images":[
                         "game_images/WhatTheDub/whatthedub.mp4",
@@ -4489,7 +4489,7 @@
     {
         "id":"rttg",
         "name":"RiffTrax: The Game",
-        "description":"Year of release: 2022",
+        "description":"Год выхода: 2022",
         "launchers_id":{
             "steam":"1707870"
         },
@@ -4558,7 +4558,7 @@
         {
         "id":"pppts",
         "name":"Paper Pirates",
-        "description":"Year of release: 2020",
+        "description":"Год выхода: 2020",
         "launchers_id":{
             "steam":"1234220"
         },
@@ -4629,7 +4629,7 @@
     {
         "id":"ppqz",
         "name":"Papa's Quiz",
-        "description":"Year of release: 2020",
+        "description":"Год выхода: 2020",
         "launchers_id":{
             "steam":"1484730"
         },
