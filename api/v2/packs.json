@@ -3374,7 +3374,7 @@
     },
     {
         "id":"fbxl",
-        "name":"Бредовуха XL",
+        "name":"Бредовуха XL (англ.)",
         "description":"Год выхода: 2016",
         "launchers_id":{
             "steam":"448080"
@@ -3401,7 +3401,7 @@
         "games":[
             {
                 "id":"fibbagexl_standalone",
-                "name":"Бредовуха XL",
+                "name":"Бредовуха XL (англ.)",
                 "background":"game_backgrounds/FibbageXLStandalone.webp",
                 "path":"",
                 "game_info":{
