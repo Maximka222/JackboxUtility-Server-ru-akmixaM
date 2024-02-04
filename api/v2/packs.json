@@ -3229,7 +3229,7 @@
         "games":[
             {
                 "id":"quiplash3_starter",
-                "name":"Quiplash 3",
+                "name":"Смехлыст 3",
                 "background":"game_backgrounds/Quiplash3Starter.webp",
                 "path":"games/Quiplash3",
                 "game_info":{
@@ -3250,10 +3250,10 @@
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
                     "subtitles":true,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"The Say-Anything Party Game",
                     "small_description":"The Say-Anything Party Game",
-                    "description":"The Threequel to the say-anything party game! Answer the prompts and make your friends laugh… hopefully.",
+                    "description":"Триквел игры-где-можно-всё! Рассмеши друзей ответами на задания... если ты умеешь, конечно.",
                     "images":[
                         "game_images/Quiplash3/quiplash3starter.mp4",
                         "game_images/Quiplash3/quiplash3_1.webp",
@@ -3275,7 +3275,7 @@
             },
             {
                 "id":"teeko_starter",
-                "name":"Tee K.O.",
+                "name":"Футбол К.О.",
                 "background":"game_backgrounds/TeeKOStarter.webp",
                 "path":"games/AwShirt",
                 "game_info":{
@@ -3296,10 +3296,10 @@
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option and disable the \"Audience Suggestions\" option so that only players can send text.",
                     "subtitles":true,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"T-Shirt Knock Out",
                     "small_description":"T-Shirt Knock Out",
-                    "description":"Draw pictures, write slogans, then swap them around to create your own custom t-shirt warriors. Only the most worthy novelty t-shirt will leave the tournament alive.",
+                    "description":"Рисуй, пиши, и затем совмещай это всё вместе, чтобы получить уникальную футболку. Только самая оригинальная и весёлая футболка покинет турнир живой!",
                     "images":[
                         "game_images/TeeKO/teekostarter.mp4",
                         "game_images/TeeKO/teeko_1.webp",
@@ -3322,7 +3322,7 @@
             },
             {
                 "id":"trivia_murder_party_2_starter",
-                "name":"Trivia Murder Party 2",
+                "name":"Смертельная вечеринка 2",
                 "background":"game_backgrounds/TriviaMurderParty2Starter.webp",
                 "path":"games/triviadeath2",
                 "game_info":{
@@ -3344,10 +3344,10 @@
                     "moderation_description":"If necessary, it's recommended to enable the \"No Writing/Drawing Onscreen Mode\" option so that players cannot send text or drawings.",
                     "subtitles":true,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"Will you survive this trivia?",
                     "small_description":"Will you survive this trivia?",
-                    "description":"A serial killer is running an absurd trivia game out of the family-run Murder Hotel he grew up in. Can you survive?",
+                    "description":"Серийный убийца устраивает абсурдную викторину в семейном Отеле смерти, в котором он вырос. Сможешь ли ты выжить?",
                     "images":[
                         "game_images/TriviaMurderParty2/triviamurderparty2starter.mp4",
                         "game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
@@ -3374,7 +3374,7 @@
     },
     {
         "id":"fbxl",
-        "name":"Fibbage XL",
+        "name":"Бредовуха XL",
         "description":"Year of release: 2016",
         "launchers_id":{
             "steam":"448080"
@@ -3401,7 +3401,7 @@
         "games":[
             {
                 "id":"fibbagexl_standalone",
-                "name":"Fibbage XL",
+                "name":"Бредовуха XL",
                 "background":"game_backgrounds/FibbageXLStandalone.webp",
                 "path":"",
                 "game_info":{
@@ -3424,7 +3424,7 @@
                     "translation":"ENGLISH",
                     "tagline":"The hilarious bluffing party game",
                     "small_description":"The hilarious bluffing party game",
-                    "description":"Fool your friends with your lies, avoid theirs, and find the (usually outrageous) truth. “The mayor of Rabbit Hash, Kentucky is a ____.” Go!",
+                    "description":"Обмани своих друзей, не попадись на чужую ложь и отгадай правду (как правило, удивительную). Вперёд!",
                     "images":[
                         "game_images/FibbageXL/fibbagexl.mp4",
                         "game_images/FibbageXL/fibbagexl_1.webp",
@@ -3450,7 +3450,7 @@
     },
     {
         "id":"quip",
-        "name":"Quiplash",
+        "name":"Смехлыст",
         "description":"Year of release: 2015",
         "launchers_id":{
             "steam":"351510"
@@ -3477,7 +3477,7 @@
         "games":[
             {
                 "id":"quiplash",
-                "name":"Quiplash",
+                "name":"Смехлыст",
                 "background":"game_backgrounds/Quiplash.webp",
                 "path":"",
                 "game_info":{
@@ -3498,10 +3498,10 @@
                     "moderation_description":"Players can submit text.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"The Say-Anything Party Game",
                     "small_description":"The Say-Anything Party Game",
-                    "description":"The laugh-a-minute battle of wits and wittiness in its HUGEST form! Come up with “the best name to give an ugly baby” and win!",
+                    "description":"Смешная битва остроумных шуток в самой огромной форме! Придумай \"лучшее имя для уродливого ребёнка\" и выиграй!",
                     "images":[
                         "game_images/QuiplashXL/quiplashxl.mp4",
                         "game_images/QuiplashXL/quiplashxl_1.webp",
@@ -3606,7 +3606,7 @@
     },
     {
         "id":"df2",
-        "name":"Drawful 2",
+        "name":"Рисовач 2",
         "description":"Year of release: 2016",
         "launchers_id":{
             "steam":"442070",
@@ -3635,7 +3635,7 @@
         "games":[
             {
                 "id":"drawful_2",
-                "name":"Drawful 2",
+                "name":"Рисовач 2",
                 "background":"game_backgrounds/Drawful2.webp",
                 "path":"",
                 "game_info":{
@@ -3656,7 +3656,7 @@
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option. This game also has the \"Manual Censoring\" option, allowing the VIP to censor the player's responses once they appear on-screen.",
                     "subtitles":true,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"Draw badly with style!",
                     "small_description":"Draw badly with style!",
                     "description":"Drawful is back to liven up your next party with Drawful 2, which challenges players to draw silly things on their smartphones and tablets.",
@@ -4350,7 +4350,7 @@
     },
     {
         "id":"uyw",
-        "name":"Use Your Words",
+        "name":"Своими Словами",
         "description":"Year of release: 2017",
         "launchers_id":{
             "steam":"521350"
@@ -4372,7 +4372,7 @@
         "games":[
             {
                 "id":"use_your_words",
-                "name":"Use Your Words",
+                "name":"Своими Словами",
                 "background":"game_backgrounds/UseYourWords.webp",
                 "path":"",
                 "game_info":{
@@ -4393,7 +4393,7 @@
                     "moderation_description":"Players can submit text.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"An amazing word party",
                     "small_description":"An amazing word party",
                     "description":"Use Your Words is the new party game for funny people and their unfunny friends! Laugh your way through four hilarious mini-games! Use your smartphone to fill in the blank, or try your luck using one of our answers to get laughs! No matter your strategy, Use Your Words brings comedy home!",
@@ -4419,7 +4419,7 @@
     },
     {
         "id":"wtd",
-        "name":"What The Dub?!",
+        "name":"Какого дубля?!",
         "description":"Year of release: 2021",
         "launchers_id":{
             "steam":"1495860"
@@ -4441,7 +4441,7 @@
         "games":[
             {
                 "id":"what_the_dub",
-                "name":"What The Dub?!",
+                "name":"Какого дубля?!",
                 "background":"game_backgrounds/WhatTheDub.webp",
                 "path":"",
                 "game_info":{
@@ -4462,10 +4462,10 @@
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter playwtd.com/mod will be able to decide what's displayed on-screen.",
                     "subtitles":true,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"COMMUNITY_TRANSLATED",
                     "tagline":"Crazy dubbing",
                     "small_description":"Crazy dubbing",
-                    "description":"What The Dub?! is a multiplayer party game where each player overdubs missing dialogue from hilariously awful B-movies, outdated PSAs, and bizarre industrial films, with their own witty (or just plain stupid) dubs!",
+                    "description":"What The Dub?! (Какого дубля?!) - это многопользовательская игра для вечеринок, в которой каждый игрок дублирует недостающие диалоги из фильмов и рекламных роликов своими собственными остроумными (или просто глупыми) дубляжами!",
                     "images":[
                         "game_images/WhatTheDub/whatthedub.mp4",
                         "game_images/WhatTheDub/whatthedub_1.webp",
