@@ -481,7 +481,7 @@
                     "moderation_description":"Since players can only input sounds provided by the game, this game doesn't require moderation. However, you cannot control the sound combinations that players submit.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Игра с мемными комбинациями",
                     "small_description":"Игра с мемными комбинациями",
                     "description":"Откройте, это подарки от Translate Guardians! А нет, это Спарта! Хотя больше похоже на мод. А я думала сова... Впрочем, ничего нового.",
@@ -498,7 +498,7 @@
 
                 },
                 "loader":{
-                    "path":"loaders/tjpp2/memewax.zip",
+                    "path":"loaders/tjpp2/mods/memewax.zip",
                     "version":"1.0.0"
                 },
                 "patchs":[
@@ -574,7 +574,7 @@
                     "moderation_description":"Players can submit drawings.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Продавайте \"шедевры\"",
                     "small_description":"Продавайте \"шедевры\"",
                     "description":"Закамский аукцион. Два слова. Создавайте \"шедевры\". Продавайте \"шедевры\". Берите кредиты. Получайте прибыль. Всё просто.",
@@ -588,7 +588,7 @@
 
                 },
                 "loader":{
-                    "path":"loaders/tjpp2/zakamskyauction.zip",
+                    "path":"loaders/tjpp2/mods/zakamskyauction.zip",
                     "version":"1.0.0"
                 },
                 "patchs":[
@@ -2440,10 +2440,10 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - ∞ minutes",
                     "playtime":{
                         "min":15,
-                        "max":25
+                        "max":"∞"
                     },
                     "family_friendly":"OPTIONAL",
                     "audience":true,
@@ -2453,9 +2453,9 @@
                     "moderation_description":"This game doesn't require moderation. If necessary, it's recommended to enable the \"Profanity Filter\" option or disable the \"Allow Player Written Responses\" option.",
                     "subtitles":true,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Попробуй победить!",
-                    "small_description":"Попробуй победить!",
+                    "translation":"NATIVELY_TRANSLATED",
+                    "tagline":"Попробуй обхитрить!",
+                    "small_description":"Попробуй обхитрить!",
                     "description":"Тролль-викторина, попробуй победить, когда все пытаются тебя обхитрить!",
                     "images":[
                         "game_images/TheWheelOfEnormousTroll/thewheelofenormoustroll.mp4"
@@ -2466,7 +2466,7 @@
 
                 },
                 "loader":{
-                    "path":"loaders/tjpp8/thewheelofenormoustroll.zip",
+                    "path":"loaders/tjpp8/mods/thewheelofenormoustroll.zip",
                     "version":"1.0.0"
                 },
                 "patchs":[
@@ -2641,7 +2641,7 @@
                     "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
                     "subtitles":true,
                     "type":"COOP",
-                    "translation":"ENGLISH",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"АМОГУС!",
                     "small_description":"АМОГУС!",
                     "description":"Игра, в которой гениальные галактические детективы соревнуются в убивании членов экипажа и раскрытии дел.",
@@ -2658,7 +2658,7 @@
 
                 },
                 "loader":{
-                    "path":"loaders/tjpp8/impostordrawn.zip",
+                    "path":"loaders/tjpp8/mods/impostordrawn.zip",
                     "version":"1.0.0"
                 },
                 "patchs":[
