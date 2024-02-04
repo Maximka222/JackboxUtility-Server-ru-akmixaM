@@ -129,8 +129,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Дерзкая викторина для вашей вечеринки",
-                    "small_description":"Дерзкая викторина для вашей вечеринки",
+                    "tagline":"Дерзкая викторина для вечеринки",
+                    "small_description":"Дерзкая викторина для вечеринки",
                     "description":"The smart-ass trivia show that started it all! Hundreds of all-new twisted trivia questions and everyone’s favorite host, Cookie Masterson!",
                     "images":[
                         "game_images/YDKJ2015/ydkj2015.mp4",
@@ -264,8 +264,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Правду не прибьёшь!",
-                    "small_description":"Правду не прибьёшь!",
+                    "tagline":"Это правда или ложь?",
+                    "small_description":"Это правда или ложь?",
                     "description":"Ссут ли лобстеры из головы? Назвала ли Япония лапшу быстрого приготовления изобретением века? Несём ли мы брехню?\n\nNOTE: Opening this game with the Utility will open the Party Pack menu, skipping the introduction. This is intentional, as the game freezes when trying to open it more efficiently like other games.",
                     "images":[
                         "game_images/LieSwatter/lieswatter.mp4",
@@ -1151,8 +1151,8 @@
                     "subtitles":false,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Оформите подписку и получите много часов игры",
-                    "small_description":"Оформите подписку и получите много часов игры",
+                    "tagline":"Войдите и получите много часов игры",
+                    "small_description":"Войдите и получите много часов игры",
                     "description":"Войди в систему и пристегнись! Тут выживает сильнейший, который играючи выкинет своих друзей за пределы контекста Всемирной Паутины.",
                     "images":[
                         "game_images/SurviveTheInternet/survivetheinternet.mp4",
@@ -1394,7 +1394,7 @@
         "games":[
         	{
                 "id":"ydkj_fullstream",
-                "name":"А голову ты не забыл?: Full Stream",
+                "name":"А голову ты не забыл?: FS",
                 "background":"game_backgrounds/YDKJFullStream.webp",
                 "path":"games/YDKJ2018",
                 "game_info":{
